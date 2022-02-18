@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81110877332",
+    "project_id": "sstep-cf558",
+    "storage_bucket": "sstep-cf558.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81110877332:android:043a77d63f447acd5ba081",
+        "android_client_info": {
+          "package_name": "com.example.sstep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81110877332-827ged1pb9akr0iclkt0fs5cem0mfnp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjc-oo31RM00mh4LSuUjDE1AK72E_5MYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81110877332-827ged1pb9akr0iclkt0fs5cem0mfnp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
